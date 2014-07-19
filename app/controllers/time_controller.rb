@@ -1,4 +1,4 @@
 class TimeController < ApplicationController
-  def time
+  def now
   end
 end
